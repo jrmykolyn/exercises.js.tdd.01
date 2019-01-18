@@ -24,7 +24,7 @@ You should be comfortable with:
 By the end of this exercise, you should have a good understanding of the following:
 - How to run a JavaScript test suite.
 - How to read and extract information from test cases written in JavaScript.
-- How to write code that satisifies existing tests.
+- How to write code that satisfies existing tests.
 
 ## Getting Started
 
